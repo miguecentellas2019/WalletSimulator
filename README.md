@@ -1,0 +1,2 @@
+# WalletSimulator
+CryptoCurrency Wallet Simulator
